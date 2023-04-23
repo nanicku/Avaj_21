@@ -1,5 +1,5 @@
 JAVAC = javac
-FILE = ./example/scenario.txt
+FILE = .scenario.txt
 
 all :
 	@$(MAKE) compile
