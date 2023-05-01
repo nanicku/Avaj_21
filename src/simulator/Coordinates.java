@@ -1,4 +1,4 @@
-package mshad.avaj.simulator;
+package simulator;
 
 public class Coordinates {
     private int longitude;
@@ -22,4 +22,5 @@ public class Coordinates {
     public int getHeight() {
         return height;
     }
+    
 }

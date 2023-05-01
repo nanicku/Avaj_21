@@ -1,4 +1,4 @@
-package mshad.avaj.simulator;
+package simulator;
 
 public class WeatherTower {
 }
