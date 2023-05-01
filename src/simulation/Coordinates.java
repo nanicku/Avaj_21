@@ -1,4 +1,4 @@
-package simulator;
+package simulation;
 
 public class Coordinates {
     private int longitude;
@@ -10,17 +10,16 @@ public class Coordinates {
         this.latitude = latitude%360;
         this.height = Math.min(height, 100);
     }
-
-    public int getLongitude() {
-        return longitude;
+    public int getLongitude(){
+        return this.longitude;
     }
 
-    public int getLatitude() {
-        return latitude;
+    public int getLatitude(){
+        return this.latitude;
     }
 
-    public int getHeight() {
-        return height;
+    public int getHeight(){
+        return this.height;
     }
     
 }

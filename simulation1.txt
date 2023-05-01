@@ -1,0 +1,183 @@
+Tower says: Baloon#B1(0) registered to weather tower.
+Tower says: Baloon#B2(1) registered to weather tower.
+Tower says: JetPlane#J1(2) registered to weather tower.
+Tower says: Helicopter#H1(3) registered to weather tower.
+Tower says: Helicopter#H2(4) registered to weather tower.
+Tower says: Helicopter#H3(5) registered to weather tower.
+Tower says: Baloon#B3(6) registered to weather tower.
+Tower says: JetPlane#J2(7) registered to weather tower.
+Tower says: Helicopter#H4(8) registered to weather tower.
+JetPlane#J1(2): - Celui qui dit qu'il l'a fait, je lui offre... un sandwich. - À quoi le sandwich ? - À la fraise.
+JetPlane#J2(7): Rho du calme il n’est pas toxique ! D’habitude faut pas me croire mais là il faut !
+Baloon#B1(0): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Helicopter#H4(8): Pourvu qu’elle y soit, pourvu qu’elle y soit ! Oh, elle y soit !
+Baloon#B3(6): Nous vous devons une reconnaissance éternelle !
+Helicopter#H1(3): Pourvu qu’elle y soit, pourvu qu’elle y soit ! Oh, elle y soit !
+Helicopter#H2(4): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+Baloon#B2(1): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Helicopter#H3(5): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+JetPlane#J1(2): Rho du calme il n’est pas toxique ! D’habitude faut pas me croire mais là il faut !
+JetPlane#J2(7): - Celui qui dit qu'il l'a fait, je lui offre... un sandwich. - À quoi le sandwich ? - À la fraise.
+Baloon#B1(0): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Helicopter#H4(8): Pourvu qu’elle y soit, pourvu qu’elle y soit ! Oh, elle y soit !
+Baloon#B3(6): Nous vous devons une reconnaissance éternelle !
+Helicopter#H1(3): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+Helicopter#H2(4): T'as baisé ma femme, j'ai baisé ma femme, allez, on est quitte.
+Baloon#B2(1): Nous vous devons une reconnaissance éternelle !
+Helicopter#H3(5): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+JetPlane#J1(2): Oh, ça m’en bouche un groin…
+JetPlane#J2(7): Rho du calme il n’est pas toxique ! D’habitude faut pas me croire mais là il faut !
+Baloon#B1(0): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Helicopter#H4(8): T'as baisé ma femme, j'ai baisé ma femme, allez, on est quitte.
+Baloon#B3(6): Eh les gars, vous allez vous marrer... J'ai avalé un glaçon !
+Helicopter#H1(3): T'as baisé ma femme, j'ai baisé ma femme, allez, on est quitte.
+Helicopter#H2(4): Pourvu qu’elle y soit, pourvu qu’elle y soit ! Oh, elle y soit !
+Baloon#B2(1): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Helicopter#H3(5): T'as baisé ma femme, j'ai baisé ma femme, allez, on est quitte.
+JetPlane#J1(2): - Celui qui dit qu'il l'a fait, je lui offre... un sandwich. - À quoi le sandwich ? - À la fraise.
+JetPlane#J2(7): Rho du calme il n’est pas toxique ! D’habitude faut pas me croire mais là il faut !
+Baloon#B1(0): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Helicopter#H4(8): Pourvu qu’elle y soit, pourvu qu’elle y soit ! Oh, elle y soit !
+Baloon#B3(6): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Helicopter#H1(3): Pourvu qu’elle y soit, pourvu qu’elle y soit ! Oh, elle y soit !
+Helicopter#H2(4): Pourvu qu’elle y soit, pourvu qu’elle y soit ! Oh, elle y soit !
+Baloon#B2(1): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Helicopter#H3(5): T'as baisé ma femme, j'ai baisé ma femme, allez, on est quitte.
+JetPlane#J1(2): Les dodos n'ont jamais froid, la fin du monde ne passera pas !
+JetPlane#J2(7): Rho du calme il n’est pas toxique ! D’habitude faut pas me croire mais là il faut !
+Baloon#B1(0): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Helicopter#H4(8): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+Baloon#B3(6): Eh les gars, vous allez vous marrer... J'ai avalé un glaçon !
+Helicopter#H1(3): J’appelle pas ça voler, j’appelle ça tomber avec panache.
+Helicopter#H2(4): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+Baloon#B2(1): - Tu vois Bob, Ted va au travail à pied. - Tu parles, il a aucun mérite, il a qu’à enjamber le quartier !
+Helicopter#H3(5): T'as baisé ma femme, j'ai baisé ma femme, allez, on est quitte.
+JetPlane#J1(2): Les dodos n'ont jamais froid, la fin du monde ne passera pas !
+JetPlane#J2(7): Rho du calme il n’est pas toxique ! D’habitude faut pas me croire mais là il faut !
+Baloon#B1(0): - Tu vois Bob, Ted va au travail à pied. - Tu parles, il a aucun mérite, il a qu’à enjamber le quartier !
+Helicopter#H4(8): J’appelle pas ça voler, j’appelle ça tomber avec panache.
+Baloon#B3(6): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Helicopter#H1(3): J’appelle pas ça voler, j’appelle ça tomber avec panache.
+Helicopter#H2(4): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+Baloon#B2(1): Eh les gars, vous allez vous marrer... J'ai avalé un glaçon !
+Helicopter#H3(5): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+JetPlane#J1(2): Rho du calme il n’est pas toxique ! D’habitude faut pas me croire mais là il faut !
+JetPlane#J2(7): Rho du calme il n’est pas toxique ! D’habitude faut pas me croire mais là il faut !
+Baloon#B1(0): Eh les gars, vous allez vous marrer... J'ai avalé un glaçon !
+Helicopter#H4(8): J’appelle pas ça voler, j’appelle ça tomber avec panache.
+Baloon#B3(6): Nous vous devons une reconnaissance éternelle !
+Helicopter#H1(3): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+Helicopter#H1(3): landing
+Tower says: Helicopter#H1(3) unregistered from weather tower.
+Helicopter#H2(4): Pourvu qu’elle y soit, pourvu qu’elle y soit ! Oh, elle y soit !
+Baloon#B2(1): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Helicopter#H3(5): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+JetPlane#J1(2): Les dodos n'ont jamais froid, la fin du monde ne passera pas !
+JetPlane#J2(7): Rho du calme il n’est pas toxique ! D’habitude faut pas me croire mais là il faut !
+Baloon#B1(0): Eh les gars, vous allez vous marrer... J'ai avalé un glaçon !
+Baloon#B1(0): landing
+Tower says: Baloon#B1(0) unregistered from weather tower.
+Helicopter#H4(8): J’appelle pas ça voler, j’appelle ça tomber avec panache.
+Baloon#B3(6): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Helicopter#H2(4): J’appelle pas ça voler, j’appelle ça tomber avec panache.
+Baloon#B2(1): Eh les gars, vous allez vous marrer... J'ai avalé un glaçon !
+Helicopter#H3(5): J’appelle pas ça voler, j’appelle ça tomber avec panache.
+JetPlane#J1(2): Les dodos n'ont jamais froid, la fin du monde ne passera pas !
+JetPlane#J2(7): - Celui qui dit qu'il l'a fait, je lui offre... un sandwich. - À quoi le sandwich ? - À la fraise.
+Helicopter#H4(8): T'as baisé ma femme, j'ai baisé ma femme, allez, on est quitte.
+Baloon#B3(6): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Helicopter#H2(4): Pourvu qu’elle y soit, pourvu qu’elle y soit ! Oh, elle y soit !
+Baloon#B2(1): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Helicopter#H3(5): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+JetPlane#J1(2): Oh, ça m’en bouche un groin…
+JetPlane#J2(7): Oh, ça m’en bouche un groin…
+Helicopter#H4(8): T'as baisé ma femme, j'ai baisé ma femme, allez, on est quitte.
+Baloon#B3(6): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Helicopter#H2(4): Pourvu qu’elle y soit, pourvu qu’elle y soit ! Oh, elle y soit !
+Baloon#B2(1): - Tu vois Bob, Ted va au travail à pied. - Tu parles, il a aucun mérite, il a qu’à enjamber le quartier !
+Helicopter#H3(5): Pourvu qu’elle y soit, pourvu qu’elle y soit ! Oh, elle y soit !
+JetPlane#J1(2): - Celui qui dit qu'il l'a fait, je lui offre... un sandwich. - À quoi le sandwich ? - À la fraise.
+JetPlane#J2(7): Oh, ça m’en bouche un groin…
+Helicopter#H4(8): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+Baloon#B3(6): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Helicopter#H2(4): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+Helicopter#H2(4): landing
+Tower says: Helicopter#H2(4) unregistered from weather tower.
+Baloon#B2(1): Eh les gars, vous allez vous marrer... J'ai avalé un glaçon !
+Helicopter#H3(5): T'as baisé ma femme, j'ai baisé ma femme, allez, on est quitte.
+JetPlane#J1(2): - Celui qui dit qu'il l'a fait, je lui offre... un sandwich. - À quoi le sandwich ? - À la fraise.
+JetPlane#J2(7): Oh, ça m’en bouche un groin…
+Helicopter#H4(8): J’appelle pas ça voler, j’appelle ça tomber avec panache.
+Baloon#B3(6): - Tu vois Bob, Ted va au travail à pied. - Tu parles, il a aucun mérite, il a qu’à enjamber le quartier !
+Baloon#B2(1): - Tu vois Bob, Ted va au travail à pied. - Tu parles, il a aucun mérite, il a qu’à enjamber le quartier !
+Helicopter#H3(5): Pourvu qu’elle y soit, pourvu qu’elle y soit ! Oh, elle y soit !
+JetPlane#J1(2): Rho du calme il n’est pas toxique ! D’habitude faut pas me croire mais là il faut !
+JetPlane#J2(7): Les dodos n'ont jamais froid, la fin du monde ne passera pas !
+Helicopter#H4(8): Pourvu qu’elle y soit, pourvu qu’elle y soit ! Oh, elle y soit !
+Baloon#B3(6): Nous vous devons une reconnaissance éternelle !
+Baloon#B2(1): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Helicopter#H3(5): J’appelle pas ça voler, j’appelle ça tomber avec panache.
+JetPlane#J1(2): Rho du calme il n’est pas toxique ! D’habitude faut pas me croire mais là il faut !
+JetPlane#J2(7): Rho du calme il n’est pas toxique ! D’habitude faut pas me croire mais là il faut !
+Helicopter#H4(8): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+Baloon#B3(6): - Tu vois Bob, Ted va au travail à pied. - Tu parles, il a aucun mérite, il a qu’à enjamber le quartier !
+Baloon#B2(1): - Tu vois Bob, Ted va au travail à pied. - Tu parles, il a aucun mérite, il a qu’à enjamber le quartier !
+Helicopter#H3(5): Pourvu qu’elle y soit, pourvu qu’elle y soit ! Oh, elle y soit !
+JetPlane#J1(2): Les dodos n'ont jamais froid, la fin du monde ne passera pas !
+JetPlane#J2(7): Rho du calme il n’est pas toxique ! D’habitude faut pas me croire mais là il faut !
+Helicopter#H4(8): Pourvu qu’elle y soit, pourvu qu’elle y soit ! Oh, elle y soit !
+Baloon#B3(6): Nous vous devons une reconnaissance éternelle !
+Baloon#B2(1): - Tu vois Bob, Ted va au travail à pied. - Tu parles, il a aucun mérite, il a qu’à enjamber le quartier !
+Helicopter#H3(5): Pourvu qu’elle y soit, pourvu qu’elle y soit ! Oh, elle y soit !
+JetPlane#J1(2): Les dodos n'ont jamais froid, la fin du monde ne passera pas !
+JetPlane#J1(2): landing
+Tower says: JetPlane#J1(2) unregistered from weather tower.
+JetPlane#J2(7): Oh, ça m’en bouche un groin…
+Helicopter#H4(8): J’appelle pas ça voler, j’appelle ça tomber avec panache.
+Baloon#B3(6): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Baloon#B2(1): - Tu vois Bob, Ted va au travail à pied. - Tu parles, il a aucun mérite, il a qu’à enjamber le quartier !
+Helicopter#H3(5): Pourvu qu’elle y soit, pourvu qu’elle y soit ! Oh, elle y soit !
+JetPlane#J2(7): Rho du calme il n’est pas toxique ! D’habitude faut pas me croire mais là il faut !
+Helicopter#H4(8): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+Baloon#B3(6): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Baloon#B2(1): Nous vous devons une reconnaissance éternelle !
+Helicopter#H3(5): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+JetPlane#J2(7): - Celui qui dit qu'il l'a fait, je lui offre... un sandwich. - À quoi le sandwich ? - À la fraise.
+Helicopter#H4(8): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+Helicopter#H4(8): landing
+Tower says: Helicopter#H4(8) unregistered from weather tower.
+Baloon#B3(6): Eh les gars, vous allez vous marrer... J'ai avalé un glaçon !
+Baloon#B2(1): Nous vous devons une reconnaissance éternelle !
+Helicopter#H3(5): J’appelle pas ça voler, j’appelle ça tomber avec panache.
+JetPlane#J2(7): - Celui qui dit qu'il l'a fait, je lui offre... un sandwich. - À quoi le sandwich ? - À la fraise.
+Baloon#B3(6): Nous vous devons une reconnaissance éternelle !
+Baloon#B2(1): - Tu vois Bob, Ted va au travail à pied. - Tu parles, il a aucun mérite, il a qu’à enjamber le quartier !
+Helicopter#H3(5): Pourvu qu’elle y soit, pourvu qu’elle y soit ! Oh, elle y soit !
+JetPlane#J2(7): Oh, ça m’en bouche un groin…
+Baloon#B3(6): Nous vous devons une reconnaissance éternelle !
+Baloon#B2(1): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Helicopter#H3(5): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+JetPlane#J2(7): Rho du calme il n’est pas toxique ! D’habitude faut pas me croire mais là il faut !
+Baloon#B3(6): - Tu vois Bob, Ted va au travail à pied. - Tu parles, il a aucun mérite, il a qu’à enjamber le quartier !
+Baloon#B2(1): Eh les gars, vous allez vous marrer... J'ai avalé un glaçon !
+Helicopter#H3(5): Pourvu qu’elle y soit, pourvu qu’elle y soit ! Oh, elle y soit !
+JetPlane#J2(7): Oh, ça m’en bouche un groin…
+Baloon#B3(6): Nous vous devons une reconnaissance éternelle !
+Baloon#B2(1): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Helicopter#H3(5): J’appelle pas ça voler, j’appelle ça tomber avec panache.
+JetPlane#J2(7): Oh, ça m’en bouche un groin…
+Baloon#B3(6): - Tu vois Bob, Ted va au travail à pied. - Tu parles, il a aucun mérite, il a qu’à enjamber le quartier !
+Baloon#B2(1): - Tu vois Bob, Ted va au travail à pied. - Tu parles, il a aucun mérite, il a qu’à enjamber le quartier !
+Helicopter#H3(5): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+JetPlane#J2(7): - Celui qui dit qu'il l'a fait, je lui offre... un sandwich. - À quoi le sandwich ? - À la fraise.
+Baloon#B3(6): Mais si c'est pas un animal qui l'a tué, c'est p'tet un végétal !...
+Baloon#B2(1): - Tu vois Bob, Ted va au travail à pied. - Tu parles, il a aucun mérite, il a qu’à enjamber le quartier !
+Helicopter#H3(5): J’appelle pas ça voler, j’appelle ça tomber avec panache.
+JetPlane#J2(7): Oh, ça m’en bouche un groin…
+Baloon#B3(6): Eh les gars, vous allez vous marrer... J'ai avalé un glaçon !
+Baloon#B3(6): landing
+Tower says: Baloon#B3(6) unregistered from weather tower.
+Baloon#B2(1): Nous vous devons une reconnaissance éternelle !
+Helicopter#H3(5): T'es mal placé dans la chaîne alimentaire pour faire ta grande gueule !
+Helicopter#H3(5): landing
+Tower says: Helicopter#H3(5) unregistered from weather tower.
